@@ -111,6 +111,7 @@ section {
   min-width: 300px;
   text-align: center;
   background-color: rgb(147, 85, 85);
+  width: 100%;
 }
 
 /*.contact-container {
