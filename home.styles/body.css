@@ -159,6 +159,8 @@ section {
   height: 350px;
   width: 350px;
   object-fit: contain;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 .title {
